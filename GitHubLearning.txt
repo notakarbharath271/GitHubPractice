@@ -1,3 +1,5 @@
 1. I am learning the github
 2. I have learn hoe to create the repository in the git hub.
 3. And i have created the file and uploaded in the repostiory.
+4. It sucessfully uploaded in the repository.
+5. Now i can have knowledge how to upload the file into git repository.
